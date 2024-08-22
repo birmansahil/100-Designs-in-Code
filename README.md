@@ -1,4 +1,4 @@
-# 100-Designs-in-Code
+# 100-Designs-to-Code
 Welcome to 100 Designs in Code! This repository is part of a 100-day challenge where I take real-world designs and recreate them using HTML and CSS. The goal is to improve my web development skills by transforming visual designs into functional and responsive web components.
 
 # What to Expect
